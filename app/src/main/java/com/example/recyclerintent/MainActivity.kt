@@ -19,7 +19,7 @@ class MainActivity : AppCompatActivity(), CarsAdapter.ICarsDetailListener  {
         init()
 
     }
-
+//
     private fun init() {
         adapter = CarsAdapter()
         binding.apply {
